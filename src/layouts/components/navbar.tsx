@@ -254,7 +254,7 @@ const Navbar = () => {
         >
           <Typography
             component={Link}
-            href="/auth"
+            href="/"
             {...getNavLinkStyle()}
             color="#23A6F0"
           >
@@ -272,7 +272,7 @@ const Navbar = () => {
           </Typography>
           <Box
             component={Link}
-            href="/search"
+            href="/"
             display="inline-block"
             position="relative"
             width="1rem"
